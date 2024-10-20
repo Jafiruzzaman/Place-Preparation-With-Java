@@ -16,4 +16,10 @@ here:
     10 is called value which assigned in num variable
     System.out.println("The value is "+num); --> here + is concat string with number
 
+Rules while creating variables
+1. variable name must start with letters,dollar character($) or UnderScore(_).
+2. variable name can't start with number or any other special characters(!,@,#,%).
+3  variable name can't be a reserved keyword in java. Like (break,if,while,continue).
+4. variable name must be meaningful.
+5. variable name  can't contain white-spaces.
  */
